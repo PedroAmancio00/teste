@@ -12,7 +12,7 @@ Os testes foram feitos usando o postman e o jest, estando eles na pasta test.
 
 ## Finalização
 
-Por fim, segue abaixo o tutorial do nest de como rodar a aplicação, grato pela atenação, Pedro.
+Por fim, segue abaixo o tutorial do nest de como rodar a aplicação, grato pela atenção, Pedro.
 
 <p  align="center">
 
