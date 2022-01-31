@@ -4,7 +4,7 @@ const PersistanceCache = require('persistent-cache');
 export class CachePersistance {
   cache: any;
 
-  constructor(ttlSeconds) {
+  constructor(ttlSeconds: number) {
     this.cache = new PersistanceCache({
       base: '.cache',
       name: 'cache',
